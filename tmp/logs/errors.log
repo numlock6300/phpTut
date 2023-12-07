@@ -16,3 +16,35 @@
 =================
 [2023-12-06 11:37:54] Текст ошибки: Array to string conversion | Файл: H:\OSPanel\domains\phpTut\public\index.php | Строка: 13
 =================
+[2023-12-07 13:15:55] Текст ошибки: Страница не найдена | Файл: H:\OSPanel\domains\phpTut\vendor\wfm\Router.php | Строка: 24
+=================
+[2023-12-07 13:20:14] Текст ошибки: Страница не найдена | Файл: H:\OSPanel\domains\phpTut\vendor\wfm\Router.php | Строка: 24
+=================
+[2023-12-07 13:25:08] Текст ошибки: Страница не найдена | Файл: H:\OSPanel\domains\phpTut\vendor\wfm\Router.php | Строка: 24
+=================
+[2023-12-07 13:51:28] Текст ошибки: Контроллер app\controllers\admin\MainController не найдена | Файл: H:\OSPanel\domains\phpTut\vendor\wfm\Router.php | Строка: 27
+=================
+[2023-12-07 13:51:28] Текст ошибки: Контроллер app\controllers\MainController не найдена | Файл: H:\OSPanel\domains\phpTut\vendor\wfm\Router.php | Строка: 27
+=================
+[2023-12-07 13:51:34] Текст ошибки: Страница не найдена | Файл: H:\OSPanel\domains\phpTut\vendor\wfm\Router.php | Строка: 30
+=================
+[2023-12-07 13:52:53] Текст ошибки: Контроллер app\controllers\admin\ProductController не найдена | Файл: H:\OSPanel\domains\phpTut\vendor\wfm\Router.php | Строка: 27
+=================
+[2023-12-07 13:55:41] Текст ошибки: Контроллер app\controllers\admin\ProductController не найдена | Файл: H:\OSPanel\domains\phpTut\vendor\wfm\Router.php | Строка: 32
+=================
+[2023-12-07 13:55:48] Текст ошибки: Контроллер app\controllers\admin\MainController не найдена | Файл: H:\OSPanel\domains\phpTut\vendor\wfm\Router.php | Строка: 32
+=================
+[2023-12-07 13:55:49] Текст ошибки: Контроллер app\controllers\MainController не найдена | Файл: H:\OSPanel\domains\phpTut\vendor\wfm\Router.php | Строка: 32
+=================
+[2023-12-07 13:55:49] Текст ошибки: Контроллер app\controllers\MainController не найдена | Файл: H:\OSPanel\domains\phpTut\vendor\wfm\Router.php | Строка: 32
+=================
+[2023-12-07 13:56:58] Текст ошибки: Метод app\controllers\MainController::indexAction не найден | Файл: H:\OSPanel\domains\phpTut\vendor\wfm\Router.php | Строка: 29
+=================
+[2023-12-07 14:00:36] Текст ошибки: Контроллер app\controllers\admin\PageController не найдена | Файл: H:\OSPanel\domains\phpTut\vendor\wfm\Router.php | Строка: 32
+=================
+[2023-12-07 14:01:21] Текст ошибки: Метод app\controllers\admin\PageController::indexAction не найден | Файл: H:\OSPanel\domains\phpTut\vendor\wfm\Router.php | Строка: 29
+=================
+[2023-12-07 14:13:28] Текст ошибки: Страница не найдена | Файл: H:\OSPanel\domains\phpTut\vendor\wfm\Router.php | Строка: 36
+=================
+[2023-12-07 14:13:38] Текст ошибки: Страница не найдена | Файл: H:\OSPanel\domains\phpTut\vendor\wfm\Router.php | Строка: 36
+=================
