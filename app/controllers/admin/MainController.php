@@ -2,9 +2,13 @@
 
 namespace app\controllers\admin;
 
-class MainController {
+use wfm\Controller;
 
-    public function indexAction() {
+class MainController extends Controller
+{
+
+    public function indexAction()
+    {
         echo __METHOD__;
     }
 }
