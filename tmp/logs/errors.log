@@ -126,3 +126,71 @@
 =================
 [2023-12-08 13:37:44] Текст ошибки: Undefined variable $layoute_file | Файл: H:\OSPanel\domains\phpTut\vendor\wfm\View.php | Строка: 38
 =================
+[2023-12-11 12:35:04] Текст ошибки: Не найден вид H:\OSPanel\domains\phpTut/app/views/admin/Main/index.php | Файл: H:\OSPanel\domains\phpTut\vendor\wfm\View.php | Строка: 32
+=================
+[2023-12-11 12:35:33] Текст ошибки: Call to undefined method app\controllers\PageController::getModel() | Файл: H:\OSPanel\domains\phpTut\vendor\wfm\Router.php | Строка: 46
+=================
+[2023-12-11 12:36:36] Текст ошибки: Страница не найдена | Файл: H:\OSPanel\domains\phpTut\vendor\wfm\Router.php | Строка: 59
+=================
+[2023-12-11 12:59:25] Текст ошибки: Call to undefined method app\controllers\PageController::getModel() | Файл: H:\OSPanel\domains\phpTut\vendor\wfm\Router.php | Строка: 46
+=================
+[2023-12-11 12:59:25] Текст ошибки: Call to undefined method app\controllers\PageController::getModel() | Файл: H:\OSPanel\domains\phpTut\vendor\wfm\Router.php | Строка: 46
+=================
+[2023-12-11 12:59:33] Текст ошибки: Страница не найдена | Файл: H:\OSPanel\domains\phpTut\vendor\wfm\Router.php | Строка: 59
+=================
+[2023-12-11 12:59:44] Текст ошибки: Не найден вид H:\OSPanel\domains\phpTut/app/views/admin/Main/index.php | Файл: H:\OSPanel\domains\phpTut\vendor\wfm\View.php | Строка: 32
+=================
+[2023-12-12 12:51:36] Текст ошибки: syntax error, unexpected integer "0", expecting variable | Файл: H:\OSPanel\domains\phpTut\vendor\wfm\View.php | Строка: 20
+=================
+[2023-12-13 13:42:09] Текст ошибки: Call to a member function find() on null | Файл: H:\OSPanel\domains\phpTut\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+=================
+[2023-12-13 13:42:51] Текст ошибки: Call to a member function find() on null | Файл: H:\OSPanel\domains\phpTut\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+=================
+[2023-12-13 13:43:54] Текст ошибки: Call to a member function find() on null | Файл: H:\OSPanel\domains\phpTut\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+=================
+[2023-12-13 13:45:01] Текст ошибки: Call to a member function find() on null | Файл: H:\OSPanel\domains\phpTut\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+=================
+[2023-12-13 13:46:22] Текст ошибки: Call to a member function find() on null | Файл: H:\OSPanel\domains\phpTut\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+=================
+[2023-12-13 13:46:24] Текст ошибки: Call to a member function find() on null | Файл: H:\OSPanel\domains\phpTut\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+=================
+[2023-12-13 13:46:24] Текст ошибки: Call to a member function find() on null | Файл: H:\OSPanel\domains\phpTut\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+=================
+[2023-12-13 13:54:52] Текст ошибки: Call to a member function find() on null | Файл: H:\OSPanel\domains\phpTut\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+=================
+[2023-12-13 13:54:59] Текст ошибки: Call to a member function find() on null | Файл: H:\OSPanel\domains\phpTut\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+=================
+[2023-12-13 13:55:01] Текст ошибки: Call to a member function find() on null | Файл: H:\OSPanel\domains\phpTut\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+=================
+[2023-12-13 13:56:52] Текст ошибки: Call to a member function find() on null | Файл: H:\OSPanel\domains\phpTut\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+=================
+[2023-12-13 13:56:54] Текст ошибки: Call to a member function find() on null | Файл: H:\OSPanel\domains\phpTut\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+=================
+[2023-12-13 13:56:54] Текст ошибки: Call to a member function find() on null | Файл: H:\OSPanel\domains\phpTut\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+=================
+[2023-12-13 13:56:55] Текст ошибки: Call to a member function find() on null | Файл: H:\OSPanel\domains\phpTut\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+=================
+[2023-12-13 13:56:55] Текст ошибки: Call to a member function find() on null | Файл: H:\OSPanel\domains\phpTut\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+=================
+[2023-12-13 13:56:56] Текст ошибки: Call to a member function find() on null | Файл: H:\OSPanel\domains\phpTut\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+=================
+[2023-12-13 13:56:56] Текст ошибки: Call to a member function find() on null | Файл: H:\OSPanel\domains\phpTut\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+=================
+[2023-12-13 13:56:56] Текст ошибки: Call to a member function find() on null | Файл: H:\OSPanel\domains\phpTut\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+=================
+[2023-12-13 13:56:56] Текст ошибки: Call to a member function find() on null | Файл: H:\OSPanel\domains\phpTut\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+=================
+[2023-12-13 13:56:57] Текст ошибки: Call to a member function find() on null | Файл: H:\OSPanel\domains\phpTut\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1026
+=================
+[2023-12-13 13:57:08] Текст ошибки: Undefined variable $names | Файл: H:\OSPanel\domains\phpTut\app\controllers\MainController.php | Строка: 14
+=================
+[2023-12-13 13:57:19] Текст ошибки: Undefined variable $test | Файл: H:\OSPanel\domains\phpTut\app\views\Main\index.php | Строка: 2
+=================
+[2023-12-13 13:57:52] Текст ошибки: Undefined variable $test | Файл: H:\OSPanel\domains\phpTut\app\views\Main\index.php | Строка: 2
+=================
+[2023-12-13 13:57:54] Текст ошибки: Undefined variable $test | Файл: H:\OSPanel\domains\phpTut\app\views\Main\index.php | Строка: 2
+=================
+[2023-12-13 13:58:59] Текст ошибки: Undefined variable $test | Файл: H:\OSPanel\domains\phpTut\app\views\Main\index.php | Строка: 2
+=================
+[2023-12-13 14:05:53] Текст ошибки: Array to string conversion | Файл: H:\OSPanel\domains\phpTut\app\views\Main\index.php | Строка: 2
+=================

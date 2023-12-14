@@ -4,18 +4,8 @@ use wfm\View;
 
 /** @var $this View */
 ?>
+<?php $this->getPart('parts/header') ?>
 
-<!DOCTYPE html>
-<html lang="en">
+<?= $this->content; ?>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Title</title>
-</head>
-
-<body>
-    <?= $this->content; ?>
-</body>
-
-</html>
+<?php $this->getPart('parts/footer') ?>

@@ -2,6 +2,8 @@
 
 namespace wfm;
 
+use RedBeanPHP\R;
+
 class View
 {
 
@@ -40,6 +42,40 @@ class View
                 throw new \Exception("Не найден шаблон {$layout_file}", 500);
             }
         }
+    }
+
+    public function getMeta()
+    {
+        $out = '<title>' . h($this->meta['title']) . '</title>' . PHP_EOL;
+        $out .= '<meta name="description" content="' . h($this->meta['description']) . '">' . PHP_EOL;
+        $out .= '<meta name="keywords" content="' . h($this->meta['keywords']) . '">' . PHP_EOL;
+        return $out;
+    }
+
+    public function getDbLogs()
+    {
+        if (DEBUG) {
+            $log = R::getDatabaseAdapter()
+                ->getDatabase()
+                ->getLogger();
+            $logs = array_merge($log->grep('SELECT'), $log->grep('select'),
+                $log->grep('INSERT'), $log->grep('UPDATE'), $log->grep('DELETE'));
+            debug($logs);
+        }
+    }
+
+    public function getPart($file, $data = null)
+    {
+        if (is_array($data)) {
+            extract($data);
+        }
+        $file = APP . "/views/{$file}.php";
+        if (is_file($file)) {
+            require $file;
+        } else {
+            echo "Файл {$file} не найден...";
+        }
+
     }
 
 }
