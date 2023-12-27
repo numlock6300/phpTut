@@ -12,7 +12,7 @@ class MainController extends AppController
 
     public function indexAction()
     {
-        $this->setMeta('Главная страница', 'Description...', 'keywords...');
+        // $this->setMeta('Главная страница', 'Description...', 'keywords...');
 
         $slides = R::findAll('slider');
 
